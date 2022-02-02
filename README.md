@@ -1,4 +1,15 @@
-### Hi there 👋
+### About
+
+Hi! I'm Hiroki Naganuma, a Ph.D. student in Computer Science at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en/) advised by Professor [Ioannis Mitliagkas](http://mitliagkas.github.io/). My research interests center around large scale parallelization in machine learning and understanding training dynamics of deep neural network.
+
+Previously I received B.Sc. from Tokyo Institute of Technology in 2017 and M.Sc. from Tokyo Institute of Technology in 2019. In previous years, I have been honored to closely work with Professor [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html) as well as many other exceptional collaborators.
+
+My CV can be found [here (Last updated: Jun 2021)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf).
+
+### Stats
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=hiroki11x&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki11x&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Hiroki11x/Hiroki11x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
