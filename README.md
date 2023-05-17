@@ -4,7 +4,7 @@ Hi! I'm Hiroki Naganuma, a Ph.D. candidate in Computer Science at [Université d
 
 Previously I received B.Sc. from Tokyo Institute of Technology in 2017 and M.Sc. from Tokyo Institute of Technology in 2019. In previous years, I have been honored to closely work with Professor [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html) as well as many other exceptional collaborators.
 
-My CV can be found [here (Last updated: Nov 2022)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf).
+My CV can be found [here (Last updated: May 2023)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf).
 
 ### Stats
 
