@@ -1,10 +1,11 @@
 ### About
 
-Hi! I'm Hiroki Naganuma, a Ph.D. candidate in Computer Science at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec AI Institute](https://mila.quebec/en/) advised by Professor [Ioannis Mitliagkas](http://mitliagkas.github.io/). My research interests center around large-scale parallelization in machine learning and understanding the training dynamics of deep neural networks.
+Hi! I'm Hiroki Naganuma, a Ph.D. candidate in Computer Science at [Université de Montréal](https://www.umontreal.ca/) and [Mila - Quebec AI Institute](https://mila.quebec/en/) advised by Professor [Ioannis Mitliagkas](http://mitliagkas.github.io/). 
+Currently, I am a student researcher at [Google DeepMind](https://deepmind.google/). My research focuses on large-scale parallelization in machine learning and the analysis of training dynamics in deep neural networks.
 
-Previously, I received B.Sc. from Tokyo Institute of Technology in 2017 and M.Sc. from Tokyo Institute of Technology in 2019. In previous years, I have been honored to closely work with Professor [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html) as well as many other exceptional collaborators.
+I hold a B.Sc. (2017) and an M.Sc. (2019) from Tokyo Institute of Technology, where I had the privilege of working closely with Professor [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html) and several outstanding collaborators.
 
-My CV can be found [here (Last updated: Feb 2024](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf).
+My CV can be found [here (Last updated: Sep 2024)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf).
 
 ### Stats
 
