@@ -13,9 +13,4 @@ I earned my B.Sc. (2017) and M.Sc. (2019) from the [Tokyo Institute of Technolog
 Collaboration & Mentorship:
 If you're interested in my work, feel free to reach out!
 
-<span style="color:red">
-I expect to complete my PhD in Spring/Summer 2026 and am currently exploring both postdoctoral and industry research opportunities. Please feel free to reach out if you see a potential fit.
-</span>
-
-
-[CV (Last updated: Nov 2025)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf) / [Résumé (Last updated: Nov 2025)](https://hiroki11x.github.io/files/Resume_HirokiNAGANUMA.pdf)
+[CV (Last updated: Jan 2026)](https://hiroki11x.github.io/files/CV_HirokiNAGANUMA.pdf) / [Résumé (Last updated: Jan 2026)](https://hiroki11x.github.io/files/Resume_HirokiNAGANUMA.pdf)
